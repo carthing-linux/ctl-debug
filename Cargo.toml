@@ -11,7 +11,7 @@ default-features = false
 features = [
     "compat-1-2",
     "backend-winit-wayland",
-    "renderer-skia",
+    "renderer-femtovg",
     "log",
     "std",
     "software-renderer-systemfonts"
